@@ -1,0 +1,15 @@
+C:\Sergey\Geekbrains\C#\ControlWork C#\obj\Debug\net7.0\ControlWork C#.csproj.AssemblyReference.cache
+C:\Sergey\Geekbrains\C#\ControlWork C#\obj\Debug\net7.0\ControlWork C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sergey\Geekbrains\C#\ControlWork C#\obj\Debug\net7.0\ControlWork C#.AssemblyInfoInputs.cache
+C:\Sergey\Geekbrains\C#\ControlWork C#\obj\Debug\net7.0\ControlWork C#.AssemblyInfo.cs
+C:\Sergey\Geekbrains\C#\ControlWork C#\obj\Debug\net7.0\ControlWork C#.csproj.CoreCompileInputs.cache
+C:\Sergey\Geekbrains\C#\ControlWork C#\bin\Debug\net7.0\ControlWork C#.exe
+C:\Sergey\Geekbrains\C#\ControlWork C#\bin\Debug\net7.0\ControlWork C#.deps.json
+C:\Sergey\Geekbrains\C#\ControlWork C#\bin\Debug\net7.0\ControlWork C#.runtimeconfig.json
+C:\Sergey\Geekbrains\C#\ControlWork C#\bin\Debug\net7.0\ControlWork C#.dll
+C:\Sergey\Geekbrains\C#\ControlWork C#\bin\Debug\net7.0\ControlWork C#.pdb
+C:\Sergey\Geekbrains\C#\ControlWork C#\obj\Debug\net7.0\ControlWork C#.dll
+C:\Sergey\Geekbrains\C#\ControlWork C#\obj\Debug\net7.0\refint\ControlWork C#.dll
+C:\Sergey\Geekbrains\C#\ControlWork C#\obj\Debug\net7.0\ControlWork C#.pdb
+C:\Sergey\Geekbrains\C#\ControlWork C#\obj\Debug\net7.0\ControlWork C#.genruntimeconfig.cache
+C:\Sergey\Geekbrains\C#\ControlWork C#\obj\Debug\net7.0\ref\ControlWork C#.dll
